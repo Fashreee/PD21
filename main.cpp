@@ -3,5 +3,6 @@
 int main()
 {
 	std::cout << "Hello Chack Norris!";
+	std::cout << "Hello Brus Willis!";
 	return 0;
 }
